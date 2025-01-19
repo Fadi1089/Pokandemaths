@@ -1,0 +1,3 @@
+class Collection {
+    Carte[] cartes;
+}
